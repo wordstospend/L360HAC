@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'L360HAC_Example', :exclusive => true do
+  pod 'L360HAC', :path => '../'
+end
+
+target 'L360HAC_Tests', :exclusive => true do
+  pod 'L360HAC', :path => '../'
+
+  pod 'Specta'
+  pod 'Expecta'
+end
