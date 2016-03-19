@@ -1,0 +1,25 @@
+{
+  "name": "L360HAC",
+  "version": "0.1.0",
+  "summary": "A short description of L360HAC.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/L360HAC",
+  "license": "MIT",
+  "authors": {
+    "Nathan Fair": "nathan.fair@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/L360HAC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "L360HAC": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

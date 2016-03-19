@@ -1,0 +1,6 @@
+framework module L360HAC {
+  umbrella header "L360HAC-umbrella.h"
+
+  export *
+  module * { export * }
+}

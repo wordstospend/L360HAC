@@ -1,0 +1,6 @@
+framework module Pods_L360HAC_Example {
+  umbrella header "Pods-L360HAC_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

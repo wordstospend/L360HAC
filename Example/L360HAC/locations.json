@@ -1,0 +1,181 @@
+[
+    {
+			"latitude": "37.78036",
+			"longitude": "-122.3967",
+			"accuracy": "10",
+			"address1": "14 Zoe St",
+			"address2": "San Francisco, CA",
+			"timestamp": "1413842836",
+            "inTransit": "0"
+		},
+
+		{
+			"latitude": "37.780334010995",
+			"longitude": "-122.39678728309",
+			"accuracy": "57.206032461175",
+			"address1": "12 Zoe St",
+			"address2": "San Francisco, CA",
+			"timestamp": "1413842803"
+		}, {
+			"latitude": "37.780242203677",
+			"longitude": "-122.39662054831",
+			"accuracy": "17.287489650352",
+			"address1": "22 Zoe St",
+			"address2": "San Francisco, CA",
+			"timestamp": "1413842800"
+		}, {
+			"latitude": "37.780142754444",
+			"longitude": "-122.39677355435",
+			"accuracy": "55.477774811431",
+			"address1": "18 Zoe St",
+			"address2": "San Francisco, CA",
+			"timestamp": "1413842797"
+		}, {
+			"latitude": "39.953821878347",
+			"longitude": "-75.15902825028",
+			"accuracy": "83.580586321583",
+			"address1": "1162 Arch St",
+			"address2": "Philadelphia, PA",
+			"timestamp": "1413842468"
+		}, {
+			"latitude": "37.780302472285",
+			"longitude": "-122.39664230488",
+			"accuracy": "65.624238958949",
+			"address1": "18 Zoe St",
+			"address2": "San Francisco, CA",
+			"timestamp": "1413841935"
+		}, {
+			"latitude": "37.78736",
+			"longitude": "-122.4082",
+			"accuracy": "5",
+			"address1": "297 Geary St",
+			"address2": "San Francisco, CA",
+			"timestamp": "1413839344"
+		}, {
+			"latitude": "37.772127683517",
+			"longitude": "-122.46605641558",
+			"accuracy": "271.16216216216",
+			"address1": "2 Tea Garden Dr",
+			"address2": "San Francisco, CA",
+			"timestamp": "1409353500"
+		}, {
+			"latitude": "37.780288442554",
+			"longitude": "-122.39669994138",
+			"accuracy": "76.461206108794",
+			"address1": "16 Zoe St",
+			"address2": "San Francisco, CA",
+			"timestamp": "1413331694"
+		}, {
+			"latitude": "37.78736",
+			"longitude": "-122.4082",
+			"accuracy": "5",
+			"address1": "297 Geary St",
+			"address2": "San Francisco, CA",
+			"timestamp": "1413251323"
+		}, {
+			"latitude": "37.38758",
+			"longitude": "-122.1548",
+			"accuracy": "5",
+			"address1": " I- 280",
+			"address2": ", CA",
+			"timestamp": "1408432223"
+		}, {
+			"latitude": "37.772504951378",
+			"longitude": "-122.3908049281",
+			"accuracy": "66.040059558229",
+			"address1": "529 Mission Rock",
+			"address2": "San Francisco, CA",
+			"timestamp": "1405961113"
+		}, {
+			"latitude": "15.52708",
+			"longitude": "-88.02675",
+			"accuracy": "65",
+			"address1": "",
+			"address2": "",
+			"timestamp": "1405237078"
+		}, {
+			"latitude": "37.77789",
+			"longitude": "-122.4033",
+			"accuracy": "65",
+			"address1": "964 Harrison St",
+			"address2": "San Francisco, CA",
+			"timestamp": "1400720632"
+		}, {
+			"latitude": "37.78010501804",
+			"longitude": "-122.39651846956",
+			"accuracy": "16.69336570624",
+			"address1": "30 Zoe St",
+			"address2": "San Francisco, CA",
+			"timestamp": "1400708993"
+		}, {
+			"latitude": "37.7724895",
+			"longitude": "-122.3907235",
+			"accuracy": "65",
+			"address1": "535 Mission Rock",
+			"address2": "San Francisco, CA",
+			"timestamp": "1386574652"
+		}, {
+			"latitude": "34.1315718",
+			"longitude": "-84.1039467",
+			"accuracy": "21.601",
+			"address1": "3349 Suffolk Dr",
+			"address2": ", GA",
+			"timestamp": "1385150989"
+		}, {
+			"latitude": "34.131531078565",
+			"longitude": "-84.103977877273",
+			"accuracy": "41.395403525628",
+			"address1": "3349 Suffolk Dr",
+			"address2": ", GA",
+			"timestamp": "1378465169"
+		}, {
+			"latitude": "37.772479",
+			"longitude": "-122.39084",
+			"accuracy": "65",
+			"address1": "555 Mission Rock St",
+			"address2": "San Francisco, CA  94158-2119",
+			"timestamp": "1377623800"
+		}, {
+			"latitude": "34.131533372937",
+			"longitude": "-84.10411055375",
+			"accuracy": "66.665485079928",
+			"address1": "3337 Suffolk Dr",
+			"address2": ", GA",
+			"timestamp": "1375460283"
+		}, {
+			"latitude": "37.789852",
+			"longitude": "-122.398166",
+			"accuracy": "10",
+			"address1": "62 1st St",
+			"address2": "San Francisco, CA  94105-2508",
+			"timestamp": "1371588379"
+		}, {
+			"latitude": "34.131572617302",
+			"longitude": "-84.103954694282",
+			"accuracy": "32.315828352916",
+			"address1": "3349 Suffolk Dr",
+			"address2": ", GA",
+			"timestamp": "1368333256"
+		}, {
+			"latitude": "15.527029599421",
+			"longitude": "-88.026764678573",
+			"accuracy": "16.563707066963",
+			"address1": "",
+			"address2": "",
+			"timestamp": "1404225328"
+		}, {
+			"latitude": "37.772782631579",
+			"longitude": "-122.39100526316",
+			"accuracy": "27.368421052632",
+			"address1": "517 Mission Rock",
+			"address2": "San Francisco, CA",
+			"timestamp": "1377045952"
+		}, {
+			"latitude": "37.332332962963",
+			"longitude": "-122.03117407407",
+			"accuracy": "7.2222222222222",
+			"address1": " Infinite Loop",
+			"address2": "Cupertino, CA",
+			"timestamp": "1375460874"
+		}
+    ]
